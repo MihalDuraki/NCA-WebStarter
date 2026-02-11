@@ -1,0 +1,60 @@
+/* ========================================
+   Schnuppertag - Informatiker
+   Gemeinsam bauen wir hier Styles ein!
+   ======================================== */
+
+/* Grundeinstellungen */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f5f5f5;
+}
+
+/* Header - Hier arbeiten wir zusammen! */
+header {
+  background-color: #040066;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  margin: 0;
+  font-size: 32px;
+}
+
+/* Navigation - Hier arbeiten wir zusammen! */
+nav {
+  margin-top: 15px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  padding: 10px 20px;
+  margin: 0 5px;
+}
+
+/* Hauptbereich */
+main {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 20px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  color: #333;
+}
+
+p {
+  line-height: 1.6;
+  color: #666;
+}
+/* ========================================
+   Hier kannst du deine eigenen Styles einfügen!
+   ======================================== */
+
